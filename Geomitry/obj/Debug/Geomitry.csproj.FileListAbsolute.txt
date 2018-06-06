@@ -1,0 +1,7 @@
+C:\repos\Dot-net\GeomitrySolution\Geomitry\bin\Debug\Geomitry.exe.config
+C:\repos\Dot-net\GeomitrySolution\Geomitry\bin\Debug\Geomitry.exe
+C:\repos\Dot-net\GeomitrySolution\Geomitry\bin\Debug\Geomitry.pdb
+C:\repos\Dot-net\GeomitrySolution\Geomitry\obj\Debug\Geomitry.csprojAssemblyReference.cache
+C:\repos\Dot-net\GeomitrySolution\Geomitry\obj\Debug\Geomitry.csproj.CoreCompileInputs.cache
+C:\repos\Dot-net\GeomitrySolution\Geomitry\obj\Debug\Geomitry.exe
+C:\repos\Dot-net\GeomitrySolution\Geomitry\obj\Debug\Geomitry.pdb
